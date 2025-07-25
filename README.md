@@ -23,7 +23,6 @@ A clean, fast, and responsive **Password Generator** built using **HTML, CSS, an
 
 ## 📸 Preview
 
-> *(Add screenshots in a `/screenshots` folder if you like)*
 
 ![Screenshot of Password Generator](./Password_generator1.png)
 
