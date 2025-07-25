@@ -2,7 +2,7 @@
 
 A clean, fast, and responsive **Password Generator** built using **HTML, CSS, and JavaScript**. It allows users to generate strong, customizable passwords with options for length, uppercase, lowercase, numbers, and symbols.
 
-🌐 **Live Demo:** [Click here to try it out](passwordgenerator13.netlify.app)
+🌐 **Live Demo:** [Click here to view the Password Generator](https://passwordgenerator13.netlify.app)
 
 ---
 
